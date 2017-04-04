@@ -1,0 +1,153 @@
+body {
+	background-color: #ef6464;
+}
+
+#title {
+	color: #cea81e;
+	font-size: 3em;
+}
+
+#nav-bar {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+#nav-bar a {
+	margin-right: 50px;
+	text-decoration: none;
+	font-size: 2em;
+	color: #cea81e;
+	font-family: 'Raleway', sans-serif;
+}
+
+#nav-bar a:hover {
+	color: #603822;
+}
+
+#description {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:20px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+#deal {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:0px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+#schedule {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:0px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+#web {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:0px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+#design {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:0px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+#draw {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:0px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+#menu {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:0px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+#contact {
+	text-align: center;
+	background-color: #603822;
+	padding: 10px;
+	border-radius: 5px;
+	color: #cea81e;
+	margin:0px 100px 20px 100px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 2em;
+}
+
+footer {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+#legal {
+	color: #603822;
+}
+
+#f-nav { 
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+#f-nav a {
+	text-decoration: none;
+	color: #cea81e;
+	margin: 30px;
+}
+
+#f-nav a:hover {
+	color: #cea81e;
+}
+
+
+
+
+
+
+
+
+
+
